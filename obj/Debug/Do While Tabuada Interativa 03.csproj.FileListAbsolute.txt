@@ -1,0 +1,8 @@
+C:\Users\Ornare\source\repos\Do While Tabuada Interativa 03\obj\Debug\Do While Tabuada Interativa 03.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Do While Tabuada Interativa 03\obj\Debug\Do While Tabuada Interativa 03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ornare\source\repos\Do While Tabuada Interativa 03\obj\Debug\Do While Tabuada Interativa 03.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Do While Tabuada Interativa 03\bin\Debug\Do While Tabuada Interativa 03.exe.config
+C:\Users\Ornare\source\repos\Do While Tabuada Interativa 03\bin\Debug\Do While Tabuada Interativa 03.exe
+C:\Users\Ornare\source\repos\Do While Tabuada Interativa 03\bin\Debug\Do While Tabuada Interativa 03.pdb
+C:\Users\Ornare\source\repos\Do While Tabuada Interativa 03\obj\Debug\Do While Tabuada Interativa 03.exe
+C:\Users\Ornare\source\repos\Do While Tabuada Interativa 03\obj\Debug\Do While Tabuada Interativa 03.pdb
